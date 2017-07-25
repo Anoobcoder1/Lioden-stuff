@@ -1,0 +1,22 @@
+* {
+	font-family: "comic sans MS";
+}
+
+body {
+	background-image: url("https://i.gyazo.com/cf960da9736c180c5d8eff9452952e41.png");
+    background-color: #ffbb99;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    border-style: dotted;
+}
+
+li {
+    font-size: 14px;
+}
+
+p {
+    font-size: 15px;
+}
