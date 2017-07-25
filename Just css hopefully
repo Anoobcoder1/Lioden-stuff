@@ -1,5 +1,7 @@
 * {
 	font-family: "comic sans MS";
+	border: 1px;
+	border-color: rgba(128, 0, 0, 0.5)
 }
 
 body {
